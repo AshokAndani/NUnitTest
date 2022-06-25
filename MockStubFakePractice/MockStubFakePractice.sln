@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MockStubFakePractice", "MockStubFakePractice.csproj", "{F60235E0-1568-4CE7-BE2F-CDD78879BE04}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestingMockFakeStubPractice", "..\TestingMockFakeStubPractice\TestingMockFakeStubPractice.csproj", "{23303DB1-F626-49CB-9AFE-9051C944BC5E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F60235E0-1568-4CE7-BE2F-CDD78879BE04}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F60235E0-1568-4CE7-BE2F-CDD78879BE04}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F60235E0-1568-4CE7-BE2F-CDD78879BE04}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F60235E0-1568-4CE7-BE2F-CDD78879BE04}.Release|Any CPU.Build.0 = Release|Any CPU
+		{23303DB1-F626-49CB-9AFE-9051C944BC5E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{23303DB1-F626-49CB-9AFE-9051C944BC5E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{23303DB1-F626-49CB-9AFE-9051C944BC5E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{23303DB1-F626-49CB-9AFE-9051C944BC5E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0C015801-4906-4016-9493-57005EEB2170}
+	EndGlobalSection
+EndGlobal
